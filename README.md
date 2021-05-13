@@ -4,8 +4,6 @@
 *Vue version*: Vue Black Dashboard v1.1.1.
 
 
-What if your frontend came not only with reusable components, but also with a reusable backend? API-driven development is more than just a buzzword and we partnered with [UPDIVISION](https://updivision.com) to prove it. Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems with Vue Black Dashboard Laravel. 
-
 # Download
 
 For the free version of the project you can either
